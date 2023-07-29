@@ -1,4 +1,4 @@
-### Hiya! I am Geryko 👋
+## Hiya! I am Geryko 👋
 
 
 <!--
