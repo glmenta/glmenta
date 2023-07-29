@@ -1,15 +1,15 @@
 # Hiya! I am Geryko 👋
 
 
-## Avid learner of all things!
+### Avid learner of all things!
 - 🌱 I’m currently learning how to implement AWS
 - ⚡ Fun fact: I also love to breakdance, watch anime and play video games!
 - 🔭 I’m currently working on a capstone project!
-## 📫 How to reach me:
+### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
 [Gmail](gakidogeck@gmail.com)
 
-## Skills and Tools
+### Skills and Tools
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,express,mysql,nodejs,postgres,react,py,flask)](https://skillicons.dev)
 
 <!--
