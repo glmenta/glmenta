@@ -1,7 +1,10 @@
 # Hiya! I am Geryko 👋
+- 🔭 I’m currently working on a capstone project
 
-# Avid learner of all things! 
+# Avid learner of all things!
 
+# 📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,express,mysql,nodejs,postgres,react,py,flask)](https://skillicons.dev)
 
 <!--
@@ -9,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
