@@ -5,9 +5,9 @@
 
 ## About me 🤔
 - 🔭 I’m currently working on finishing my education @ AppAcademy!
-- 🌱 I’m currently learning how to implement AWS
+- 🌱 I’m learning how to implement AWS for my apps~
 - ⚡ Fun fact: I also love to breakdance, watch anime, and play video games!
-- ⚡ More fun fax: I have a background in neurology and physiology from UC Davis
+- ⚡ More fun fax: I have a background in neurology and physiology from UC Davis 😲
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
