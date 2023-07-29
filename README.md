@@ -4,8 +4,8 @@
 # Avid learner of all things!
 
 * 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
-[Gmail](gakidogeck@gmail.com)
+*[LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
+*[Gmail](gakidogeck@gmail.com)
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,express,mysql,nodejs,postgres,react,py,flask)](https://skillicons.dev)
 
 <!--
