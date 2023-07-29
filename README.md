@@ -2,7 +2,7 @@
 ![cool-keyboardgif](https://github.com/glmenta/glmenta/assets/111015201/25d3f6b7-27b9-4c1d-8b4b-3189380926eb)
 
 
-### Avid learner of all things!
+## Avid learner of all things!
 - 🌱 I’m currently learning how to implement AWS
 - ⚡ Fun fact: I also love to breakdance, watch anime and play video games!
 - 🔭 I’m currently working on a capstone project!
