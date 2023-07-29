@@ -5,7 +5,9 @@
 </div>
 
 ## Avid learner of all things!
-
+<div align="center">
+  <img src="https://github.com/glmenta/glmenta/assets/111015201/999658a9-4fe5-497f-88c2-05bc0afe3e22" alt='isagi-gif'>
+</div>
 - 🌱 I’m currently learning how to implement AWS
 - ⚡ Fun fact: I also love to breakdance, watch anime, and play video games!
 - ⚡ More fun fax: I have a background in neurology and physiology!
