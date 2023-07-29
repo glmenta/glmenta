@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning how to implement AWS
 - ⚡ Fun fact: I also love to breakdance, watch anime, and play video games!
+- ⚡ More fun fax: I have a background in neurology and physiology!
 - 🔭 I’m currently working on a capstone project!
 
 ### 📫 How to reach me:
