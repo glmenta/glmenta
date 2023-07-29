@@ -1,8 +1,8 @@
 # Hiya! I am Geryko 👋
 
-# Skillz 
+# Avid learner of all things! 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,express,mysql,nodejs,postgres,react,py,flask)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,express,mysql,nodejs,postgres,react,py,flask)](https://skillicons.dev)
 
 <!--
 **glmenta/glmenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
