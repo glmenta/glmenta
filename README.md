@@ -1,7 +1,7 @@
 # Hiya! I am Geryko 👋
 - 🔭 I’m currently working on a capstone project
 
-# Avid learner of all things!
+## Avid learner of all things!
 
 ## 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
