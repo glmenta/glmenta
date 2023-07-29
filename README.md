@@ -1,12 +1,13 @@
 # Hiya! I am Geryko 👋
+<div align="center">
 ![cat-typing-gif](https://github.com/glmenta/glmenta/assets/111015201/18f8b1c6-9215-46ed-92dd-1d6464098994)
 
-<div align="center">
+
 
 ## Avid learner of all things!
-- 🌱 I’m currently learning how to implement AWS
-- ⚡ Fun fact: I also love to breakdance, watch anime, and play video games!
-- 🔭 I’m currently working on a capstone project!
+🌱 I’m currently learning how to implement AWS
+⚡ Fun fact: I also love to breakdance, watch anime, and play video games!
+🔭 I’m currently working on a capstone project!
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
