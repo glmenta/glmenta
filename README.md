@@ -19,8 +19,9 @@
 
 
 ### Statistics
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=glmenta&theme=dark)](https://git.io/streak-stats)
-
+</div>  
 <!--
 **glmenta/glmenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
