@@ -1,10 +1,4 @@
 # Hiya! my name is Geryko 😄
-  
-<div align="center">
-  <img src="https://github.com/glmenta/glmenta/assets/111015201/18f8b1c6-9215-46ed-92dd-1d6464098994" alt="cat-typing-gif">
-</div>
-
-## Avid learner of all things!
 <div align="center">
   <img src="https://github.com/glmenta/glmenta/assets/111015201/999658a9-4fe5-497f-88c2-05bc0afe3e22" alt='isagi-gif'>
 </div>
