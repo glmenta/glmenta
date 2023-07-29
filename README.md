@@ -2,7 +2,9 @@
 - 🔭 I’m currently working on a capstone project
 
 ## Avid learner of all things!
-
+- 🌱 I’m currently learning how to implement AWS into my project
+- ⚡ Fun fact: I also love to breakdance, watch anime and play video games!
+  
 ## 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
 [Gmail](gakidogeck@gmail.com)
