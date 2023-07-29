@@ -1,5 +1,5 @@
 # Hiya! I am Geryko 👋
-![cool-keyboardgif](https://github.com/glmenta/glmenta/assets/111015201/25d3f6b7-27b9-4c1d-8b4b-3189380926eb)
+![cat-typing-gif](https://github.com/glmenta/glmenta/assets/111015201/18f8b1c6-9215-46ed-92dd-1d6464098994)
 
 
 ## Avid learner of all things!
