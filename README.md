@@ -1,7 +1,4 @@
 # Hiya! my name is Geryko 😄
-<div align="center">
-  <img src="https://github.com/glmenta/glmenta/assets/111015201/999658a9-4fe5-497f-88c2-05bc0afe3e22" alt='isagi-gif'>
-</div>
 
 ## About me 🤔
 - 🔭 I’m currently working on finishing my education @ AppAcademy!
