@@ -3,7 +3,7 @@
 ## About me 🤔
 - 🔭 I’m currently working on making a website for a local food catering business!
 - 🌱 I’m learning how to implement AWS for my apps~
-- ⚡ Fun fact: I also love to breakdance, watch anime, and play video games!
+- ⚡ Fun fact: I also love to breakdance, watch anime, and go to the gym!
 - 🧠 Another fun fact: I have a background in neurology and physiology from UC Davis 😲
 
 ### 📫 How to reach me:
