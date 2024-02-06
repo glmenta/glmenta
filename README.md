@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on making a website for a local food catering business!
 - 🌱 I’m learning how to implement AWS for my apps~
 - ⚡ Fun fact: I also love to breakdance, watch anime, and go to the gym!
-- 🧠 Another fun fact: I have a background in neurology and physiology from UC Davis 😲
+- 🧠 Another fun fact: I have a background in neurobiology and physiology from UC Davis 😲
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
