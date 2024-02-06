@@ -1,5 +1,8 @@
 # Hey There! I'm Geryko! 😄
+  I am a software developer that made a switch from the healthcare field to pursue my passion in creating things through my computer!
 
+  Thanks for stopping by~
+  
 ## About me 🤔
 - 🔭 I’m currently working on making a website for a local food catering business!
 - 🌱 I’m learning how to implement AWS for my apps~
