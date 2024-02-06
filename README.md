@@ -1,6 +1,6 @@
 # Hey There! I'm Geryko! 😄
 
-I'm a software developer who shifted from the healthcare industry to pursue my passion for creating through computer programming. Recently graduating from App Academy, I also hold a background in Neurobiology, Physiology, and Behavior. My prior experience in the medical field has equipped me with valuable teamwork skills, and I've adeptly assimilated new software engineering technologies.
+I'm a software developer who switched gears from the healthcare world to dive into my love for creating stuff on my computer. Fresh out of App Academy, I also have a background in Neurobiology, Physiology, and Behavior. My time in healthcare taught me great teamwork skills, and I've been quick to pick up new software engineering tech along the way!
   
 ## About me 🤔
 - 🔭 I’m currently working on making a website for a local food catering business!
