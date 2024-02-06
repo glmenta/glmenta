@@ -1,4 +1,4 @@
-# Hiya! my name is Geryko 😄
+# Hey There! I'm Geryko! 😄
 
 ## About me 🤔
 - 🔭 I’m currently working on making a website for a local food catering business!
