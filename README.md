@@ -1,13 +1,12 @@
 # Hey There! I'm Geryko! 😄
-  I am a software developer that made a switch from the healthcare field to pursue my passion in creating things through my computer!
 
-  Thanks for stopping by~
+I'm a software developer who shifted from the healthcare industry to pursue my passion for creating through computer programming. Recently graduating from App Academy, I also hold a background in Neurobiology, Physiology, and Behavior. My prior experience in the medical field has equipped me with valuable teamwork skills, and I've adeptly assimilated new software engineering technologies.
   
 ## About me 🤔
 - 🔭 I’m currently working on making a website for a local food catering business!
-- 🌱 I’m learning how to implement AWS for my apps~
-- ⚡ Fun fact: I also love to breakdance, watch anime, and go to the gym!
-- 🧠 Another fun fact: I have a background in neurobiology and physiology from UC Davis 😲
+- 🌱 I’m learning how to implement AWS for my apps and diving deep into data structures and algorithms!
+- ⚡ Fun fact: I also love to breakdance, watch anime, play games and go to the gym!
+- 🧠 Another fun fact: I am born in the Philippines and I am fluent in both Tagalog and English!
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
