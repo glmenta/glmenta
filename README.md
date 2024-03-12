@@ -10,7 +10,7 @@ I'm a software developer who switched gears from the healthcare world to dive in
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/geryko-menta-36a0b0215/)
-[Gmail](gmenta98@gmail.com)
+gmenta98@gmail.com
 
 ### Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,express,mysql,nodejs,postgres,react,py,flask)](https://skillicons.dev)
